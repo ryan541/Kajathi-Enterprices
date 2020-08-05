@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+    text-align: justify;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Indie Flower', cursive;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    font-family: 'Pacifico', cursive;
+    color: red;
+    font-size: 30px;
+}
+li{
+    font-family: 'Indie Flower', cursive;
+    color: black;
+    font-size: 30px;
+
+}
